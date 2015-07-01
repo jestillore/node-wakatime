@@ -1,0 +1,23 @@
+{
+  "name": "node-wakatime",
+  "version": "1.0.0",
+  "description": "WakaTime NodeJS Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jestillore/node-wakatime.git"
+  },
+  "keywords": [
+    "node",
+    "wakatime"
+  ],
+  "author": "Jillberth Estillore <ejillberth@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jestillore/node-wakatime/issues"
+  },
+  "homepage": "https://github.com/jestillore/node-wakatime#readme"
+}
